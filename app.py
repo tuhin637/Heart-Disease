@@ -462,7 +462,7 @@ with st.sidebar:
             <h4 style="margin-bottom: 10px;">👨‍💻 Developed by</h4>
             <p style="font-size: 1.1em; font-weight: 600;">Md. Tuhinuzzaman Tuhin</p>
             <p style="font-size: 0.9em;">ID: 221-15-4649</p>
-            <p style="font-size: 0.9em;">📧 tuhin15-4649@diu.edu.bd</p>
+            <p style="font-size: 0.9em;">📧 tuhinuzzaman15-4649@diu.edu.bd</p>
             <p style="font-size: 0.85em; margin-top: 15px; opacity: 0.9;">
                 🏛️ Daffodil International University<br>
                 Department of Computer Science & Engineering
